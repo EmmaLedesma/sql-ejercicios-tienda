@@ -13,28 +13,6 @@
   - Triggers y transacciones
   - Análisis de cohortes y consultas geoespaciales
 
-## 🛠️ Estructura del proyecto
-/sql-ejercicios-tienda
-│
-├── /basico
-│ ├── ejercicio1_creaacion_db.sql
-│ ├── ejercicio2_insercion_datos.sql
-│ └── ...
-│
-├── /intermedio
-│ ├── ejercicio8_crear_tabla_ventas.sql
-│ ├── ejercicio9_consulta_join.sql
-│ └── ...
-│
-├── /avanzado
-│ ├── ejercicio15_indices.sql
-│ ├── ejercicio16_cte_ventas_trimestrales.sql
-│ └── ...
-│
-└── README.md
- ── .gitignore
-
-
 ## 💡 ¿Cómo usar?
 
 1. Clona este repositorio
