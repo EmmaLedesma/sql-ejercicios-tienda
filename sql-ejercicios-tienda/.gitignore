@@ -1,0 +1,59 @@
+# Archivos de sistema y IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+
+# Archivos de base de datos
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Backups y exportaciones
+*.sql.bak
+*.backup
+/dumps/
+
+# Archivos de configuración local
+*.env
+*.ini
+config_local.*
+
+# Logs
+*.log
+logs/
+
+# Archivos de bloqueo de SQL
+*.lck
+
+# Archivos de datos binarios
+*.bin
+*.dump
+
+# Para MySQL
+*.ibd
+*.frm
+*.ib_logfile*
+
+# Para SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Para PostgreSQL
+/postgres_data/
+*.pid
+
+# Archivos generados automáticamente
+*.csv
+*.json
+/exports/
