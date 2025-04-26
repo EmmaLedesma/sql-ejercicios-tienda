@@ -1,0 +1,1 @@
+echo "*.sql linguist-language=TSQL" > .gitattributes
